@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.line {
+  padding: 5px 0;
+  border-bottom: 1px solid #cecece;
+}
+
+.logo-img {
+  height: 36px;
+  margin: 10px 25%;
+}
+
+.button {
+  display: flex;
+  gap: 10px;
+  margin: -50px 40%;
+}
+
+.button1 {
+  padding: 8px 15px;
+  border: 1px solid #ddd;
+  background-color: #f8f8f8;
+  font-size: 14px;
+  color: #666;
+  text-decoration: none;
+  border-radius: 3px;
+  line-height: 1;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
