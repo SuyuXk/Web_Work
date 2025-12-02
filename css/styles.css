@@ -10,14 +10,14 @@
 }
 
 .logo-img {
-  height: 36px;
-  margin: 10px 25%;
+  height: 32px;
+  margin: 10px 27%;
 }
 
 .button {
   display: flex;
-  gap: 10px;
-  margin: -50px 40%;
+  gap: 40px;
+  margin: -47px 42%;
 }
 
 .button1 {
@@ -32,4 +32,5 @@
   display: inline-flex;
   align-items: center;
   justify-content: center;
+  white-space: nowrap; 
 }
